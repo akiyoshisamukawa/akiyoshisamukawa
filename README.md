@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Akiyoshi Samukawa</h1>
+
 <!-- badges -->
 <p align="left">
   <a href="https://github.com/akiyoshisamukawa/akiyoshisamukawa/">
@@ -22,18 +24,3 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiyoshisamukawa&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akiyoshisamukawa&show_icons=ture" />
 </p>
-
-- 👋 Hi, I’m @akiyoshisamukawa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-  
-  <h1 align="center">Hi 👋, I'm Akiyoshi Samukawa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
